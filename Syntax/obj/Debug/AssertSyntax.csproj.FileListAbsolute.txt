@@ -1,0 +1,10 @@
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\Syntax.Tests.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\Syntax.Tests.pdb
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\nunit.framework.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\NUnit.System.Linq.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\nunit.framework.xml
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csprojAssemblyReference.cache
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csproj.CoreCompileInputs.cache
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csproj.CopyComplete
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\Syntax.Tests.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\Syntax.Tests.pdb

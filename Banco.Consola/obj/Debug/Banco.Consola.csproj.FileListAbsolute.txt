@@ -1,0 +1,7 @@
+C:\Users\uber2k\source\repos\UnitTesting\Banco.Consola\bin\Debug\Banco.Consola.exe.config
+C:\Users\uber2k\source\repos\UnitTesting\Banco.Consola\bin\Debug\Banco.Consola.exe
+C:\Users\uber2k\source\repos\UnitTesting\Banco.Consola\bin\Debug\Banco.Consola.pdb
+C:\Users\uber2k\source\repos\UnitTesting\Banco.Consola\obj\Debug\Banco.Consola.csprojAssemblyReference.cache
+C:\Users\uber2k\source\repos\UnitTesting\Banco.Consola\obj\Debug\Banco.Consola.csproj.CoreCompileInputs.cache
+C:\Users\uber2k\source\repos\UnitTesting\Banco.Consola\obj\Debug\Banco.Consola.exe
+C:\Users\uber2k\source\repos\UnitTesting\Banco.Consola\obj\Debug\Banco.Consola.pdb

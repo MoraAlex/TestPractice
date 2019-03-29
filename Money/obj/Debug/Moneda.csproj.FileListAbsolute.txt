@@ -1,0 +1,10 @@
+C:\Users\uber2k\source\repos\UnitTesting\Money\bin\Debug\Money.Tests.dll
+C:\Users\uber2k\source\repos\UnitTesting\Money\bin\Debug\Money.Tests.pdb
+C:\Users\uber2k\source\repos\UnitTesting\Money\bin\Debug\nunit.framework.dll
+C:\Users\uber2k\source\repos\UnitTesting\Money\bin\Debug\NUnit.System.Linq.dll
+C:\Users\uber2k\source\repos\UnitTesting\Money\bin\Debug\nunit.framework.xml
+C:\Users\uber2k\source\repos\UnitTesting\Money\obj\Debug\Moneda.csprojAssemblyReference.cache
+C:\Users\uber2k\source\repos\UnitTesting\Money\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\uber2k\source\repos\UnitTesting\Money\obj\Debug\Moneda.csproj.CopyComplete
+C:\Users\uber2k\source\repos\UnitTesting\Money\obj\Debug\Money.Tests.dll
+C:\Users\uber2k\source\repos\UnitTesting\Money\obj\Debug\Money.Tests.pdb

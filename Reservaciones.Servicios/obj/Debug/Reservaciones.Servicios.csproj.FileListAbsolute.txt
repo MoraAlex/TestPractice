@@ -1,0 +1,16 @@
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\nunit.engine.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\nunit.engine.api.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\Reservaciones.Servicios.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\Reservaciones.Servicios.pdb
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\nunit.framework.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\nunit.framework.pdb
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\nunit.framework.xml
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\obj\Debug\Reservaciones.Servicios.csprojAssemblyReference.cache
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\obj\Debug\Reservaciones.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\obj\Debug\Reservaciones.Servicios.csproj.CopyComplete
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\obj\Debug\Reservaciones.Servicios.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\obj\Debug\Reservaciones.Servicios.pdb
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\Reservaciones.Entidades.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Reservaciones.Servicios\bin\Debug\Reservaciones.Entidades.pdb

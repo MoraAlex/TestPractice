@@ -1,0 +1,14 @@
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\Syntax.Tests.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\Syntax.Tests.pdb
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\nunit.framework.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\NUnit.System.Linq.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\nunit.framework.xml
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\obj\Debug\SintaxisNUnit.csprojAssemblyReference.cache
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\obj\Debug\SintaxisNUnit.csproj.CoreCompileInputs.cache
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\obj\Debug\SintaxisNUnit.csproj.CopyComplete
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\obj\Debug\Syntax.Tests.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\obj\Debug\Syntax.Tests.pdb
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\nunit.engine.dll
+C:\Users\moralesrc\Desktop\UnitTestCourse\UnitTesting\UnitTesting\Syntax\bin\Debug\nunit.engine.api.dll

@@ -1,0 +1,10 @@
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\bin\Debug\Money.Tests.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\bin\Debug\Money.Tests.pdb
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\bin\Debug\nunit.framework.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\bin\Debug\NUnit.System.Linq.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\bin\Debug\nunit.framework.xml
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\obj\Debug\Money.csprojAssemblyReference.cache
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\obj\Debug\Money.csproj.CopyComplete
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\obj\Debug\Money.Tests.dll
+C:\Users\uber2k\Desktop\nunit-csharp-samples-master\money\obj\Debug\Money.Tests.pdb
